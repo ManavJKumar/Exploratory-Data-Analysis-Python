@@ -4,22 +4,22 @@ This project focuses on analysing and visualizing Diwali Sales Customer Data to 
 
 Key Findings
 
-1. Gender Analysis
+1. Gender Analysis :-
 The graphs indicate a predominant presence of female buyers. Furthermore, the purchasing power of females surpasses that of males.
 
-2. Age Group Distribution
+2. Age Group Distribution :-
 The age group of 26-35 years among females stands out as the most active in making purchases.
 
-3. Regional Analysis
+3. Regional Analysis :-
 The majority of orders and total sales/amount are concentrated in Uttar Pradesh, Maharashtra and Karnataka.
 
-4. Marital Status Impact
+4. Marital Status Impact :-
 Married women, particularly in the age group of 26-35 years, emerge as the primary buyers with significant purchasing power.
 
-5. Occupational Trends
+5. Occupational Trends :-
 Buyers from the IT, Healthcare and Aviation sectors contribute substantially to the customer base.
 
-6. Product Category Insights
+6. Product Category Insights :-
 Products in the Food, Clothing and Electronics categories are the most popular among buyers.
 
 Conclusion
